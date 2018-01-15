@@ -11,8 +11,8 @@ You need to change the variables as shown below:
 ```python
     domain = 'yourdomain.com'
     record = 'your subdomain like (www)'
-    email = 'your ddns account'
-    password = 'your ddns password'
+    email = 'your dnspod account'
+    password = 'your dnspod password'
 ```
 ### A cron job example
 if you wanna execute this script per hour:
