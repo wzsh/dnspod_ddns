@@ -1,5 +1,6 @@
 # Update DDNS record of dnspod 
 As an user of dnspod.com(international), updating sub-domain's ip address is a common operation.
+
 This script can upate ip address of your sub-domain automatically.
 
 
@@ -15,7 +16,7 @@ You need to change the variables as shown on below:
 ```
 ### A cron job example
 if you wanna execute this script per hour:
-# crontab -e
+$ crontab -e
 1 */1 * * * /usr/bin/python /home/pi/update_ip.py >> /home/pi/update_ip.log
 
 ## Notice
