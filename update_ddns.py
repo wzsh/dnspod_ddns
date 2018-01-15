@@ -104,7 +104,7 @@ if __name__ == '__main__':
     domain_id = GetDomainID(token, domain)
     #print domain_id
     if domain_id == -1:
-        1print "GetDomainID Error"
+        print "GetDomainID Error"
         sys.exit(0)
         
     record_id = GetRecordInfo(token, domain_id, record)
