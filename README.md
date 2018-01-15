@@ -5,7 +5,7 @@ This script can upate ip address of your sub-domain automatically.
 
 
 ## Usage
-You need to change the variables as shown on below:
+You need to change the variables as shown below:
 
 
 ```python
