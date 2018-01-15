@@ -23,4 +23,4 @@ $ crontab -e
 
 
 ## Notice
-如果你使用的是国内版DNSOD, 请尝试BASE_URL替换为国内版api地址(https://dnsapi.cn)
+如果你使用的是国内版DNSPOD, 请尝试BASE_URL替换为国内版api地址(https://dnsapi.cn)
