@@ -1,7 +1,7 @@
 # Update DDNS record of dnspod （Python 2.x）
 As an user of dnspod.com (international), updating sub-domain's ip address is a common operation.
 
-This script can upate ip address of your sub-domain automatically.
+This script can update ip address of your sub-domain on dnspod automatically.
 
 
 ## Usage
